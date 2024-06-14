@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hartono"
+  given-names: "Natalia"
+  orcid: "https://orcid.org/0000-0003-2314-1394"
+title: "Fibonacci-Bees-Algorithm-TSP"
+version: 1.0.0
+doi: 10.5281/zenodo.11657644
+date-released: 2024-06-14
+url: "https://github.com/NataliaHartonoFung/Fibonacci-Bees-Algorithm-TSP"
