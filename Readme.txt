@@ -10,13 +10,11 @@ How to run the BAF:
 % This code accompanied the article:
 % 'A Comparative Study of Reduced Parameter Versions of the Bees Algorithm 
 % for Traveling Salesman Problem'
-% Natalia Hartono, Hamid Suluova, Fatih M Eker, Sultan Zeybek, Mario Caterino
-% 
+% Authors: Natalia Hartono, Hamid Suluova, Fatih M Eker, Sultan Zeybek, Mario Caterino
+% Journal of Integrated System (JIS), 2024
 %
 % This code is modified from basic bees algorithm in TSP problem, article:
 % 'Using the Bees Algorithm to solve combinatorial optimisation problems for
 % TSPLIB' (Ismail et al., 2020), doi:10.1088/1757-899X/1/012027
 % 
-% To cite this code: 
-% [The code is available for testing by reviewers/users but will be made fully 
-% accessible after acceptance.]
+% 
