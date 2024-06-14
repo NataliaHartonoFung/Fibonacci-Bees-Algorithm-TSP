@@ -17,4 +17,4 @@ How to run the BAF:
 % 'Using the Bees Algorithm to solve combinatorial optimisation problems for
 % TSPLIB' (Ismail et al., 2020), doi:10.1088/1757-899X/1/012027
 % 
-% 
+% How to cite this code: click on the upper right-hand side "cite this repository"
